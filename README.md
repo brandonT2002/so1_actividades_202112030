@@ -5,7 +5,7 @@
 
 ## :wrench: Herramientas:
 
-<div align="center">
+<div>
 	<a href="#">
 		<img src="https://skillicons.dev/icons?i=git,bash" />
 	</a>
