@@ -1,0 +1,10 @@
+[Unit]
+Description=Saludo y Fecha Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/saludo.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
